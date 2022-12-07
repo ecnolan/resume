@@ -1,0 +1,3 @@
+﻿include,category,title,location,start,end,bullet1,,
+y,Research Experience,Senior Seminar Research,Hamilton College Mathematics Department,20-Aug,20-Dec,"Conducted independent research analyzing online chess social network structure, including evaluation of meaningfulness of online chess ranking. Compared network associativity with in-person chess to confirm efficacy of ranking system.",Taught myself relevant network analysis tools including networkX Python package and Cytoscape program.,"Submitted research paper to lichess.org, including proposing new network-diameter based method to identify cheating."
+y,Research Experience,,,,,,,
